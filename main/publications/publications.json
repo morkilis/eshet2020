@@ -389,125 +389,125 @@
 			"mag": "Nucleic Acids Research, Volume 54, Issue 8, 8 May 2026, gkag391, https://doi.org/10.1093/nar/gkag391.",
 			"link": "https://academic.oup.com/nar/article/54/8/gkag391/8663822",
 			"journal": "Nucleic Acids Res."
+		}
+	},
+	"journals": {
+		"Biochem J": {
+			"link": "https://science.sciencemag.org/content/352/6282/216"
 		},
-		"journals": {
-			"Biochem J": {
-				"link": "https://science.sciencemag.org/content/352/6282/216"
-			},
-			"Biol Cell": {
-				"link": "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1768-322X"
-			},
-			"BMC Neurol": {
-				"link": "http://www.biomedcentral.com/bmcneurol"
-			},
-			"Brain": {
-				"link": "http://brain.oxfordjournals.org/"
-			},
-			"Cell": {
-				"link": "http://www.cell.com/"
-			},
-			"Cell Cycle": {
-				"link": "https://www.landesbioscience.com/journals/cc/"
-			},
-			"Cell Death & Disease": {
-				"link": "https://www.nature.com/cddis/"
-			},
-			"Cells": {
-				"link": "https://www.mdpi.com/journal/cells"
-			},
-			"Communication Biology": {
-				"link": "https://www.nature.com/commsbio/"
-			},
-			"EMBO J": {
-				"link": "http://emboj.embopress.org/"
-			},
-			"Eur J Biochem / FEBS": {
-				"link": "http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291742-4658/issues"
-			},
-			"FASEB J": {
-				"link": "http://www.fasebj.org/"
-			},
-			"FEBS Letters": {
-				"link": "http://www.febsletters.org/"
-			},
-			"Front Mol Neurosci": {
-				"link": "https://www.frontiersin.org/journals/molecular-neuroscience#"
-			},
-			"Genes & Dev": {
-				"link": "http://genesdev.cshlp.org/"
-			},
-			"Genome Res": {
-				"link": "http://genome.cshlp.org/"
-			},
-			"Hum Genet": {
-				"link": "http://link.springer.com/journal/439"
-			},
-			"Hum Mol Genet": {
-				"link": "http://hmg.oxfordjournals.org/"
-			},
-			"JBC": {
-				"link": "http://www.jbc.org/"
-			},
-			"J Neurochem": {
-				"link": "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1471-4159"
-			},
-			"J Neurosci": {
-				"link": "http://www.jneurosci.org/"
-			},
-			"J Virol": {
-				"link": "http://jvi.asm.org/content/by/year"
-			},
-			"Leukemia": {
-				"link": "http://www.nature.com/leu/index.html"
-			},
-			"Mol Cell": {
-				"link": "http://www.cell.com/molecular-cell/home"
-			},
-			"Mol Cell Biol": {
-				"link": "http://mcb.asm.org/"
-			},
-			"Mol Genet Metab": {
-				"link": "http://www.journals.elsevier.com/molecular-genetics-and-metabolism/"
-			},
-			"NAR Molec Med.": {
-				"link": "https://academic.oup.com/narmolmed"
-			},
-			"Nature Protocols": {
-				"link": "http://www.nature.com/nprot/index.html"
-			},
-			"Neural Regen Res": {
-				"link": "http://www.nrronline.org/"
-			},
-			"Neuro Molecular Medicine": {
-				"link": "https://link.springer.com/journal/12017"
-			},
-			"Nuc Acid Res": {
-				"link": "http://nar.oxfordjournals.org/"
-			},
-			"Oncogene": {
-				"link": "http://www.nature.com/onc/index.html"
-			},
-			"PLOS Biology": {
-				"link": "https://journals.plos.org/plosbiology/"
-			},
-			"PLOS Genetics": {
-				"link": "http://journals.plos.org/plosgenetics"
-			},
-			"PLOS one": {
-				"link": "http://www.plosone.org/"
-			},
-			"Proc Nat Acad Sci": {
-				"link": "http://www.pnas.org/"
-			},
-			"RNA Biol": {
-				"link": "https://www.landesbioscience.com/journals/rnabiology/"
-			},
-			"Translation": {
-				"link": "http://www.landesbioscience.com/journals/translation/"
-			},
-			"Virology": {
-				"link": "http://www.journals.elsevier.com/virology/"
-			}
+		"Biol Cell": {
+			"link": "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1768-322X"
+		},
+		"BMC Neurol": {
+			"link": "http://www.biomedcentral.com/bmcneurol"
+		},
+		"Brain": {
+			"link": "http://brain.oxfordjournals.org/"
+		},
+		"Cell": {
+			"link": "http://www.cell.com/"
+		},
+		"Cell Cycle": {
+			"link": "https://www.landesbioscience.com/journals/cc/"
+		},
+		"Cell Death & Disease": {
+			"link": "https://www.nature.com/cddis/"
+		},
+		"Cells": {
+			"link": "https://www.mdpi.com/journal/cells"
+		},
+		"Communication Biology": {
+			"link": "https://www.nature.com/commsbio/"
+		},
+		"EMBO J": {
+			"link": "http://emboj.embopress.org/"
+		},
+		"Eur J Biochem / FEBS": {
+			"link": "http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291742-4658/issues"
+		},
+		"FASEB J": {
+			"link": "http://www.fasebj.org/"
+		},
+		"FEBS Letters": {
+			"link": "http://www.febsletters.org/"
+		},
+		"Front Mol Neurosci": {
+			"link": "https://www.frontiersin.org/journals/molecular-neuroscience#"
+		},
+		"Genes & Dev": {
+			"link": "http://genesdev.cshlp.org/"
+		},
+		"Genome Res": {
+			"link": "http://genome.cshlp.org/"
+		},
+		"Hum Genet": {
+			"link": "http://link.springer.com/journal/439"
+		},
+		"Hum Mol Genet": {
+			"link": "http://hmg.oxfordjournals.org/"
+		},
+		"JBC": {
+			"link": "http://www.jbc.org/"
+		},
+		"J Neurochem": {
+			"link": "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1471-4159"
+		},
+		"J Neurosci": {
+			"link": "http://www.jneurosci.org/"
+		},
+		"J Virol": {
+			"link": "http://jvi.asm.org/content/by/year"
+		},
+		"Leukemia": {
+			"link": "http://www.nature.com/leu/index.html"
+		},
+		"Mol Cell": {
+			"link": "http://www.cell.com/molecular-cell/home"
+		},
+		"Mol Cell Biol": {
+			"link": "http://mcb.asm.org/"
+		},
+		"Mol Genet Metab": {
+			"link": "http://www.journals.elsevier.com/molecular-genetics-and-metabolism/"
+		},
+		"NAR Molec Med.": {
+			"link": "https://academic.oup.com/narmolmed"
+		},
+		"Nature Protocols": {
+			"link": "http://www.nature.com/nprot/index.html"
+		},
+		"Neural Regen Res": {
+			"link": "http://www.nrronline.org/"
+		},
+		"Neuro Molecular Medicine": {
+			"link": "https://link.springer.com/journal/12017"
+		},
+		"Nuc Acid Res": {
+			"link": "http://nar.oxfordjournals.org/"
+		},
+		"Oncogene": {
+			"link": "http://www.nature.com/onc/index.html"
+		},
+		"PLOS Biology": {
+			"link": "https://journals.plos.org/plosbiology/"
+		},
+		"PLOS Genetics": {
+			"link": "http://journals.plos.org/plosgenetics"
+		},
+		"PLOS one": {
+			"link": "http://www.plosone.org/"
+		},
+		"Proc Nat Acad Sci": {
+			"link": "http://www.pnas.org/"
+		},
+		"RNA Biol": {
+			"link": "https://www.landesbioscience.com/journals/rnabiology/"
+		},
+		"Translation": {
+			"link": "http://www.landesbioscience.com/journals/translation/"
+		},
+		"Virology": {
+			"link": "http://www.journals.elsevier.com/virology/"
 		}
 	}
 }
