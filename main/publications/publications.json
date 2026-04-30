@@ -14,7 +14,7 @@
 			"mag": "Nuc. Acids Res. 23, 1744-1749. PMID: 7784179",
 			"link": "  ",
 			"journal": "Nuc. Acids Res."
-		},	
+		},
 		"The translational repression mediated by the PDGF/c-sis mRNA leader is relieved during megakaryocytic differentiation": {
 			"year": 1995,
 			"creds": "Bernstein J., Sheffler I., Elroy-Stein O.",
@@ -56,7 +56,7 @@
 			"mag": "Hum. Mol. Genet. 6, 887-895. https://doi.org/10.1093/hmg/6.6.887",
 			"link": "https://academic.oup.com/hmg/article/6/6/887/2901215",
 			"journal": "Hum. Mol. Genet."
-		},	
+		},
 		"Ataxia-telangiectasia: Structural diversity of untranslated sequences suggests complex post-transcriptional regulation of ATM gene expression.": {
 			"year": 1997,
 			"creds": "Savitsky K, Platzer M, Usiel T, Gilad S, Sartiel A, Rosenthal A, Elroy-Stein O, Shiloh Y, Rotman G.",
@@ -165,7 +165,7 @@
 		"DAP5 promotes cap-independent translation of Bcl-2 and CDK1 to facilitate cell survival during mitosis": {
 			"year": 2008,
 			"creds": "Marash L, Liberman N, Henis-Korenblit S, Sivan G, Reem E, Elroy-Stein O, Kimchi A.",
-			"mag": "Mol. Cell 30, 447-459. PMID: 18450493",   
+			"mag": "Mol. Cell 30, 447-459. PMID: 18450493",
 			"link": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(08)00243-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1097276508002438%3Fshowall%3Dtrue",
 			"journal": "Mol. Cell."
 		},
@@ -339,7 +339,7 @@
 			"creds": "Herrero M, Daw M, Atzmon A, Elroy-Stein O.",
 			"mag": "Cells 10(8), 1858. https://doi.org/10.3390/cells10081858",
 			"link": "https://www.mdpi.com/2073-4409/10/8/1858",
-			"journal": "Cells"	
+			"journal": "Cells"
 		},
 		"Oligodendrocytes depend on MCL-1 to prevent spontaneous apoptosis and white matter degeneration": {
 			"year": 2021,
@@ -363,151 +363,151 @@
 			"journal": "PLoS Biology"
 		},
 		"Neuronal Gtf2i Deletion Alters Mitochondrial and Autophagic Properties.": {
-		"year": 2023,
-		"creds": "Nir Sade A, Levy G, Schokoroy Trangle S, Elad Sfadia G, Bar E, Ophir O, Fischer I, Rokach M, Atzmon A, Parnas H, Rosenberg T, Marco A, Elroy-Stein O, Barak B.",
-		"mag": "Communication Biology 2023 Dec 14 Vol.6(1):1269. doi: 10.1038/s42003-023-05612-5",
-		"link": "https://www.nature.com/articles/s42003-023-05612-5",
-		"journal": "Communication Biology"
+			"year": 2023,
+			"creds": "Nir Sade A, Levy G, Schokoroy Trangle S, Elad Sfadia G, Bar E, Ophir O, Fischer I, Rokach M, Atzmon A, Parnas H, Rosenberg T, Marco A, Elroy-Stein O, Barak B.",
+			"mag": "Communication Biology 2023 Dec 14 Vol.6(1):1269. doi: 10.1038/s42003-023-05612-5",
+			"link": "https://www.nature.com/articles/s42003-023-05612-5",
+			"journal": "Communication Biology"
 		},
 		"Effective extraction of polyribosomes from astrocytes enables future discoveries on translation regulation.": {
-		"year": 2025,
-		"creds": "Elroy-Stein O.",
-		"mag": "Neural Regen Res. 20(4):1083-1084, April 2025. DOI: 10.4103/NRR.NRR-D-24-00204",
-		"link": "https://journals.lww.com/nrronline/fulltext/2025/04000/effective_extraction_of_polyribosomes_from.18.aspx",
-		"journal": "Neural Regen Res."
+			"year": 2025,
+			"creds": "Elroy-Stein O.",
+			"mag": "Neural Regen Res. 20(4):1083-1084, April 2025. DOI: 10.4103/NRR.NRR-D-24-00204",
+			"link": "https://journals.lww.com/nrronline/fulltext/2025/04000/effective_extraction_of_polyribosomes_from.18.aspx",
+			"journal": "Neural Regen Res."
 		},
 		"The translational landscape of reactive astrocytes reveals the impact of eIF2B-mediated dysregulation in VWM disease.": {
-		"year": 2025,
-		"creds": "Shir Mandelboum, Liat Lev-Ari, Andrea Atzmon, Melisa Herrero , Naama Brezner, Daniel Benhalevy, Orna Elroy-Stein.",
-		"mag": "NAR Mol Med. 2025 Mar 24;2(2):ugaf009. doi: 10.1093/narmme/ugaf009. PMID: 41255715; PMCID: PMC12430003.",
-		"link": "https://academic.oup.com/narmolmed/article/2/2/ugaf009/8092652",
-		"journal": "NAR Mol Med."	
+			"year": 2025,
+			"creds": "Shir Mandelboum, Liat Lev-Ari, Andrea Atzmon, Melisa Herrero , Naama Brezner, Daniel Benhalevy, Orna Elroy-Stein.",
+			"mag": "NAR Mol Med. 2025 Mar 24;2(2):ugaf009. doi: 10.1093/narmme/ugaf009. PMID: 41255715; PMCID: PMC12430003.",
+			"link": "https://academic.oup.com/narmolmed/article/2/2/ugaf009/8092652",
+			"journal": "NAR Mol Med."
 		},
 		"Repurposed hnRNPC binds mature mRNAs and safeguards the mitotic transcriptome.": {
-		"year": 2026,
-		"creds": "Liat Lev-Ari , Sandra Laster , Andrea Atzmon , Daniel Blumenkrants , Daniel Benhalevy , Orna Elroy-Stein.",
-		"mag": "Nucleic Acids Research, Volume 54, Issue 8, 8 May 2026, gkag391, https://doi.org/10.1093/nar/gkag391.",
-		"link": "https://academic.oup.com/nar/article/54/8/gkag391/8663822",
-		"journal": "Nucleic Acids Res."	
+			"year": 2026,
+			"creds": "Liat Lev-Ari , Sandra Laster , Andrea Atzmon , Daniel Blumenkrants , Daniel Benhalevy , Orna Elroy-Stein.",
+			"mag": "Nucleic Acids Research, Volume 54, Issue 8, 8 May 2026, gkag391, https://doi.org/10.1093/nar/gkag391.",
+			"link": "https://academic.oup.com/nar/article/54/8/gkag391/8663822",
+			"journal": "Nucleic Acids Res."
 		},
-
-	"journals": {
-		"Biochem J": {
-			"link": "https://science.sciencemag.org/content/352/6282/216"
-		},
-		"Biol Cell": {
-			"link": "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1768-322X"
-		},
-		"BMC Neurol": {
-			"link": "http://www.biomedcentral.com/bmcneurol"
-		},
-		"Brain": {
-			"link": "http://brain.oxfordjournals.org/"
-		},
-		"Cell": {
-			"link": "http://www.cell.com/"
-		},
-		"Cell Cycle": {
-			"link": "https://www.landesbioscience.com/journals/cc/"
-		},
-		"Cell Death & Disease": {
-			"link": "https://www.nature.com/cddis/"
-		},	
-		"Cells": {
-			"link": "https://www.mdpi.com/journal/cells"
-		},
-		"Communication Biology": {
-			"link": "https://www.nature.com/commsbio/"
-		},	
-		"EMBO J": {
-			"link": "http://emboj.embopress.org/"
-		},
-		"Eur J Biochem / FEBS": {
-			"link": "http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291742-4658/issues"
-		},
-		"FASEB J": {
-			"link": "http://www.fasebj.org/"
-		},
-		"FEBS Letters": {
-			"link": "http://www.febsletters.org/"
-		},
-		"Front Mol Neurosci": {
-			"link": "https://www.frontiersin.org/journals/molecular-neuroscience#"
-		},
-		"Genes & Dev": {
-			"link": "http://genesdev.cshlp.org/"
-		},
-		"Genome Res": {
-			"link": "http://genome.cshlp.org/"
-		},
-		"Hum Genet": {
-			"link": "http://link.springer.com/journal/439"
-		},
-		"Hum Mol Genet": {
-			"link": "http://hmg.oxfordjournals.org/"
-		},
-		"JBC": {
-			"link": "http://www.jbc.org/"
-		},
-		"J Neurochem": {
-			"link": "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1471-4159"
-		},
-		"J Neurosci": {
-			"link": "http://www.jneurosci.org/"
-		},
-		"J Virol": {
-			"link": "http://jvi.asm.org/content/by/year"
-		},
-		"Leukemia": {
-			"link": "http://www.nature.com/leu/index.html"
-		},
-		"Mol Cell": {
-			"link": "http://www.cell.com/molecular-cell/home"
-		},
-		"Mol Cell Biol": {
-			"link": "http://mcb.asm.org/"
-		},
-		"Mol Genet Metab": {
-			"link": "http://www.journals.elsevier.com/molecular-genetics-and-metabolism/"
-		},
-		"NAR Molec Med.": {
-			"link": "https://academic.oup.com/narmolmed"
-		},
-		"Nature Protocols": {
-			"link": "http://www.nature.com/nprot/index.html"
-		},
-		"Neural Regen Res": {
-			"link": "http://www.nrronline.org/"
-		},
-		"Neuro Molecular Medicine": {
-			"link": "https://link.springer.com/journal/12017"
-		},
-		"Nuc Acid Res": {
-			"link": "http://nar.oxfordjournals.org/"
-		},
-		"Oncogene": {
-			"link": "http://www.nature.com/onc/index.html"
-		},
-		"PLOS Biology": {
-			"link": "https://journals.plos.org/plosbiology/"
-		},
-		"PLOS Genetics": {
-			"link": "http://journals.plos.org/plosgenetics"
-		},
-		"PLOS one": {
-			"link": "http://www.plosone.org/"
-		},
-		"Proc Nat Acad Sci": {
-			"link": "http://www.pnas.org/"
-		},
-		"RNA Biol": {
-			"link": "https://www.landesbioscience.com/journals/rnabiology/"
-		},
-		"Translation": {
-			"link": "http://www.landesbioscience.com/journals/translation/"
-		},
-		"Virology": {
-			"link": "http://www.journals.elsevier.com/virology/"
+		"journals": {
+			"Biochem J": {
+				"link": "https://science.sciencemag.org/content/352/6282/216"
+			},
+			"Biol Cell": {
+				"link": "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1768-322X"
+			},
+			"BMC Neurol": {
+				"link": "http://www.biomedcentral.com/bmcneurol"
+			},
+			"Brain": {
+				"link": "http://brain.oxfordjournals.org/"
+			},
+			"Cell": {
+				"link": "http://www.cell.com/"
+			},
+			"Cell Cycle": {
+				"link": "https://www.landesbioscience.com/journals/cc/"
+			},
+			"Cell Death & Disease": {
+				"link": "https://www.nature.com/cddis/"
+			},
+			"Cells": {
+				"link": "https://www.mdpi.com/journal/cells"
+			},
+			"Communication Biology": {
+				"link": "https://www.nature.com/commsbio/"
+			},
+			"EMBO J": {
+				"link": "http://emboj.embopress.org/"
+			},
+			"Eur J Biochem / FEBS": {
+				"link": "http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291742-4658/issues"
+			},
+			"FASEB J": {
+				"link": "http://www.fasebj.org/"
+			},
+			"FEBS Letters": {
+				"link": "http://www.febsletters.org/"
+			},
+			"Front Mol Neurosci": {
+				"link": "https://www.frontiersin.org/journals/molecular-neuroscience#"
+			},
+			"Genes & Dev": {
+				"link": "http://genesdev.cshlp.org/"
+			},
+			"Genome Res": {
+				"link": "http://genome.cshlp.org/"
+			},
+			"Hum Genet": {
+				"link": "http://link.springer.com/journal/439"
+			},
+			"Hum Mol Genet": {
+				"link": "http://hmg.oxfordjournals.org/"
+			},
+			"JBC": {
+				"link": "http://www.jbc.org/"
+			},
+			"J Neurochem": {
+				"link": "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1471-4159"
+			},
+			"J Neurosci": {
+				"link": "http://www.jneurosci.org/"
+			},
+			"J Virol": {
+				"link": "http://jvi.asm.org/content/by/year"
+			},
+			"Leukemia": {
+				"link": "http://www.nature.com/leu/index.html"
+			},
+			"Mol Cell": {
+				"link": "http://www.cell.com/molecular-cell/home"
+			},
+			"Mol Cell Biol": {
+				"link": "http://mcb.asm.org/"
+			},
+			"Mol Genet Metab": {
+				"link": "http://www.journals.elsevier.com/molecular-genetics-and-metabolism/"
+			},
+			"NAR Molec Med.": {
+				"link": "https://academic.oup.com/narmolmed"
+			},
+			"Nature Protocols": {
+				"link": "http://www.nature.com/nprot/index.html"
+			},
+			"Neural Regen Res": {
+				"link": "http://www.nrronline.org/"
+			},
+			"Neuro Molecular Medicine": {
+				"link": "https://link.springer.com/journal/12017"
+			},
+			"Nuc Acid Res": {
+				"link": "http://nar.oxfordjournals.org/"
+			},
+			"Oncogene": {
+				"link": "http://www.nature.com/onc/index.html"
+			},
+			"PLOS Biology": {
+				"link": "https://journals.plos.org/plosbiology/"
+			},
+			"PLOS Genetics": {
+				"link": "http://journals.plos.org/plosgenetics"
+			},
+			"PLOS one": {
+				"link": "http://www.plosone.org/"
+			},
+			"Proc Nat Acad Sci": {
+				"link": "http://www.pnas.org/"
+			},
+			"RNA Biol": {
+				"link": "https://www.landesbioscience.com/journals/rnabiology/"
+			},
+			"Translation": {
+				"link": "http://www.landesbioscience.com/journals/translation/"
+			},
+			"Virology": {
+				"link": "http://www.journals.elsevier.com/virology/"
+			}
 		}
 	}
 }
