@@ -369,19 +369,19 @@
 			"link": "https://www.nature.com/articles/s42003-023-05612-5",
 			"journal": "Communication Biology"
 		},
-		"Effective extraction of polyribosomes from astrocytes enables future discoveries on translation regulation.": {
-			"year": 2025,
-			"creds": "Elroy-Stein O.",
-			"mag": "Neural Regen Res. 20(4):1083-1084, April 2025. DOI: 10.4103/NRR.NRR-D-24-00204",
-			"link": "https://journals.lww.com/nrronline/fulltext/2025/04000/effective_extraction_of_polyribosomes_from.18.aspx",
-			"journal": "Neural Regen Res."
-		},
 		"The translational landscape of reactive astrocytes reveals the impact of eIF2B-mediated dysregulation in VWM disease.": {
 			"year": 2025,
 			"creds": "Shir Mandelboum, Liat Lev-Ari, Andrea Atzmon, Melisa Herrero , Naama Brezner, Daniel Benhalevy, Orna Elroy-Stein.",
 			"mag": "NAR Mol Med. 2025 Mar 24;2(2):ugaf009. doi: 10.1093/narmme/ugaf009. PMID: 41255715; PMCID: PMC12430003.",
 			"link": "https://academic.oup.com/narmolmed/article/2/2/ugaf009/8092652",
 			"journal": "NAR Mol Med."
+		},
+		"Effective extraction of polyribosomes from astrocytes enables future discoveries on translation regulation.": {
+			"year": 2025,
+			"creds": "Elroy-Stein O.",
+			"mag": "Neural Regen Res. 20(4):1083-1084, April 2025. DOI: 10.4103/NRR.NRR-D-24-00204",
+			"link": "https://journals.lww.com/nrronline/fulltext/2025/04000/effective_extraction_of_polyribosomes_from.18.aspx",
+			"journal": "Neural Regen Res."
 		},
 		"Repurposed hnRNPC binds mature mRNAs and safeguards the mitotic transcriptome.": {
 			"year": 2026,

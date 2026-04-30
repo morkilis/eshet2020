@@ -40,6 +40,7 @@ const PublicationsPage = () => {
             super({ cls: 'journal', href: link });
             this.text(title);
             this.target('_blank');
+            console.log(`  new Journal(${title}: ${typeof title}, ${link}: ${typeof link}. this:`, this)
         }
     }
     async function init() {
@@ -55,6 +56,7 @@ const PublicationsPage = () => {
         for (let [title, { year, creds, mag, link, journal, highlight, supOne, supTwo }] of dict(publicationsData).items()) {
             publications.push(new Publication(title, year, creds, mag, link, journal, highlight, supOne, supTwo));
         }
+        console.log('journalsData:', journalsData)
         for (let [title, { link }] of dict(journalsData).items()) {
             journals.push(new Journal(title, link));
         }
@@ -69,16 +71,17 @@ const PublicationsPage = () => {
             }
         }
         const years = [];
-        const selectedPublicationsElem = div({ cls: 'year' }).append(elem({ tag: 'h3' }).text('Selected Publications'));
-        for (let publication of selected) {
-            selectedPublicationsElem.append(publication);
-        }
-        years.push(selectedPublicationsElem);
+        // const selectedPublicationsElem = div({ cls: 'year' }).append(elem({ tag: 'h3' }).text('Selected Publications'));
+        // for (let publication of selected) {
+        //     selectedPublicationsElem.append(publication);
+        // }
+        // years.push(selectedPublicationsElem);
         for (let year of Object.keys(yearToPublication).reverse()) {
             let yearDiv = div({ cls: 'year' }).append(elem({ tag: 'h3' }).text(year), ...yearToPublication[year]);
             years.push(yearDiv);
         }
 
+        console.log('Building publication-page. ...journals:', ...journals)
         Home.empty().class('publications-page')
             .append(
                 elem({ tag: 'section', cls: 'main-cls page-intro' }).append(
