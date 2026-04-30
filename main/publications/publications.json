@@ -375,8 +375,22 @@
 		"mag": "Neural Regen Res. 20(4):1083-1084, April 2025. DOI: 10.4103/NRR.NRR-D-24-00204",
 		"link": "https://journals.lww.com/nrronline/fulltext/2025/04000/effective_extraction_of_polyribosomes_from.18.aspx",
 		"journal": "Neural Regen Res."
-		}
 		},
+		"The translational landscape of reactive astrocytes reveals the impact of eIF2B-mediated dysregulation in VWM disease.": {
+		"year": 2025,
+		"creds": "Shir Mandelboum, Liat Lev-Ari, Andrea Atzmon, Melisa Herrero , Naama Brezner, Daniel Benhalevy, Orna Elroy-Stein.",
+		"mag": "NAR Mol Med. 2025 Mar 24;2(2):ugaf009. doi: 10.1093/narmme/ugaf009. PMID: 41255715; PMCID: PMC12430003.",
+		"link": "https://academic.oup.com/narmolmed/article/2/2/ugaf009/8092652",
+		"journal": "NAR Mol Med."	
+		},
+		"Repurposed hnRNPC binds mature mRNAs and safeguards the mitotic transcriptome.": {
+		"year": 2026,
+		"creds": "Liat Lev-Ari , Sandra Laster , Andrea Atzmon , Daniel Blumenkrants , Daniel Benhalevy , Orna Elroy-Stein.",
+		"mag": "Nucleic Acids Research, Volume 54, Issue 8, 8 May 2026, gkag391, https://doi.org/10.1093/nar/gkag391.",
+		"link": "https://academic.oup.com/nar/article/54/8/gkag391/8663822",
+		"journal": "Nucleic Acids Res."	
+		},
+
 	"journals": {
 		"Biochem J": {
 			"link": "https://science.sciencemag.org/content/352/6282/216"
@@ -456,8 +470,8 @@
 		"Mol Genet Metab": {
 			"link": "http://www.journals.elsevier.com/molecular-genetics-and-metabolism/"
 		},
-		"Nature": {
-			"link": "http://www.nature.com/"
+		"NAR Molec Med.": {
+			"link": "https://academic.oup.com/narmolmed"
 		},
 		"Nature Protocols": {
 			"link": "http://www.nature.com/nprot/index.html"
